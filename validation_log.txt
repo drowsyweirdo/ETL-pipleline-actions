@@ -1,0 +1,8 @@
+2024-07-25 17:05:56.001058 - Data loaded successfully.
+2024-07-25 17:05:56.008540 - Missing values found:
+  id name age
+3  4  NaN  30
+2024-07-25 17:05:56.008581 - Invalid age values found:
+  id         name  age
+2  3  Invalid Age  abc
+2024-07-25 17:05:56.008608 - Data validation failed.
